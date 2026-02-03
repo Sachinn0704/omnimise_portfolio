@@ -1,22 +1,19 @@
 # Sachin Bhosagi — Backend & AI Engineer
 
-**Backend-focused Computer Science (Data Science) student building reliable APIs, secure systems, and AI-powered backends, currently applying for the Backend role at Omnimise.**  
+**Backend-focused Computer Science (Data Science) student building reliable APIs, secure systems, and AI-powered backends.**  
 ---
 
-## 🎯 Why I’m a Fit for Omnimise (Backend Role)
+## 🎯 Backend Engineer Value Proposition
 
-Omnimise is building trusted, fraud-free career identities; that needs **secure systems, strong backend APIs, and data integrity.**  
+I am interested in building **secure, scalable backend systems** that handle sensitive data, integrate AI models, and ensure data integrity.
 
-I bring:  
+I bring:
 
-- Experience with **Python-based backends (Flask, FastAPI, Streamlit)** and model deployment.  
-- Projects focused on **security, identity, and reliability** (blockchain voting, face recognition, steganography).  
-- Solid **data skills (SQL, Pandas, NumPy)** to work with candidate profiles, analytics, and verification pipelines. 
-- Comfort with **cloud and dev tools** (AWS/GCP basics, Git/GitHub, VS Code, Jupyter/Colab) for modern backend workflows. 
+- Experience with **Python-based backends** using **Flask and FastAPI**, along with **Streamlit** for model-backed applications.  
+- Hands-on projects focused on **security, identity verification, and system reliability**, including blockchain-based voting, face recognition, and steganography.  
+- Strong **data handling skills** using **SQL, Pandas, and NumPy** for analytics and backend data pipelines.  
+- Familiarity with **cloud and development tools** such as **Git, GitHub, AWS/GCP (basic), VS Code, and Jupyter** for modern backend workflows.
 
-For Omnimise, I want to build **robust APIs and services** that handle identity verification, fraud detection, and trustworthy data flows at scale.
-
----
 
 ## 🛠 Tech Stack (Backend-Oriented)
 
@@ -28,36 +25,114 @@ For Omnimise, I want to build **robust APIs and services** that handle identity 
 **Tools & Cloud:** Git, GitHub, Jupyter, VS Code, Google Colab, Anaconda, AWS, GCP, Azure (basic)
 **Soft Skills:** Problem-solving, analytical thinking, teamwork, communication.  
 
----
+# 🗳 Blockchain Smart Election Voting System with Face Recognition
+**Tech:** Python, JavaScript, HTML/CSS, Web3.py, OpenCV  
+A secure and transparent voting system that combines **face recognition–based voter verification** with **blockchain technology** to prevent fraud and ensure vote integrity.
 
-## 💻 Backend & Systems Projects
+## 📌 Project Overview
+This project implements a **smart electronic voting system** where voters are authenticated using **facial recognition**, and votes are recorded on a **blockchain ledger**.
+The goal is to eliminate common issues in traditional voting systems such as **duplicate voting, identity fraud, and vote tampering**, while maintaining transparency and auditability.
 
-### 1️⃣ Blockchain Smart Election Voting System  
-**Tech:** Python, JavaScript, HTML/CSS, Web3.py, OpenCV [file:92]  
+## 🧠 Core Features
 
-- Built a **secure and transparent voting system** with **face recognition** to verify voters, which is directly relevant to **identity verification and fraud prevention**, similar to Omnimise’s mission. [file:92]  
-- Recorded votes on **blockchain** to make them immutable and tamper-proof, ensuring **trust, auditability, and accuracy**. 
+- 🔐 **Face-Based Voter Authentication:**  
+  Uses computer vision techniques to verify voter identity before allowing a vote.
 
-> What this shows for Omnimise:  
-> - Handling **sensitive identity data** securely.  
-> - Designing **tamper-resistant systems** and thinking about **trust** as a core requirement.
-> - 🔗 [View Project](https://github.com/Sachinn0704/-Blockchain-based-E-Voting-system-with-Facial-Recognition-)
+- ⛓ **Blockchain-Based Vote Storage:**  
+  Votes are stored on a blockchain to ensure **immutability and tamper resistance**.
+
+- 🛡 **Fraud Prevention:**  
+  Prevents duplicate or unauthorized voting attempts through identity verification.
+
+- 📊 **Auditability & Transparency:**  
+  Every vote can be verified without revealing voter identity.
+
+## 🏗 System Workflow
+
+**Workflow Steps:**
+1. Capture voter image through camera  
+2. Perform face detection and recognition  
+3. Verify voter eligibility  
+4. Record vote as a blockchain transaction  
+5. Store transaction hash for audit purposes  
+## 📈 Results & Observations
+
+**Observed Outcomes:**
+- Accurate voter verification during test runs  
+- Immutable vote storage using blockchain  
+- No duplicate voting allowed after identity verification  
+- Transparent and traceable voting records  
+
+## 🔍 Backend & Security Relevance
+
+This project demonstrates:
+- Secure handling of **identity-related data**
+- Integration of **AI modules with backend systems**
+- Designing **tamper-resistant data pipelines**
+- Strong understanding of **trust and verification mechanisms**
+
+These concepts directly apply to **backend services dealing with identity, security, and fraud prevention**.
+
+## 🔗 Project Link
+
+🔗 **[View Project](https://github.com/Sachinn0704/-Blockchain-based-E-Voting-system-with-Facial-Recognition-)**
 
 
+# 🤖 Multimodal AI System for Human–AI Interaction
 
+**Tech:** Python, NLP, CNNs, Transformers, Streamlit  
 
-### 2️⃣ Multimodal AI System for Human–AI Interaction  
-**Tech:** Python, NLP, CNNs, Transformers, Streamlit 
+A multimodal AI system designed to process **text, images, and speech inputs** and provide intelligent responses through a unified backend workflow.
 
-- Implemented an AI system that processes **text, images, and speech** for smooth human–AI interaction. 
-- Used **NLP and CNN-based models** to handle and route different input types efficiently, with a Streamlit interface for interaction. 
+## 📌 Project Overview
 
-> Relevance for Omnimise:  
-> - Experience in **building AI-backed services** that can plug into backend workflows.  
-> - Ability to expose models via **web apps/APIs** and think about **user experience + performance**.
-> - 🔗 [View Project](https://github.com/Sachinn0704/Multi-modal-_AI-project)
+This project implements a **Multimodal AI system** that integrates **Natural Language Processing (NLP)**, **Computer Vision**, and **Speech Processing** to enable seamless human–AI interaction.
 
+The system is designed to handle different input types efficiently and expose AI capabilities through a **Streamlit-based interface**, simulating real-world AI-backed backend services.
 
+## 🧠 Core Features
+
+- 📝 **Text Processing:**  
+  Handles natural language input using NLP techniques for understanding and response generation.
+
+- 🖼 **Image Processing:**  
+  Uses CNN-based models to analyze and interpret image inputs.
+
+- 🔊 **Speech Processing:**  
+  Converts speech to text for processing and supports audio-based interaction.
+
+- 🔗 **Unified Backend Flow:**  
+  Routes different input modalities through a single coordinated backend pipeline.
+
+## 🏗 System Workflow
+
+**Workflow Steps:**
+1. Accept user input (text / image / speech)  
+2. Identify the input modality  
+3. Route input to the appropriate AI model  
+4. Process data using NLP or CNN-based models  
+5. Generate and return intelligent output via the interface  
+
+## 📈 Results & Observations
+
+**Observed Outcomes:**
+- Accurate handling of multiple input types  
+- Smooth switching between modalities  
+- Effective integration of AI models into a single system  
+- Responsive interaction through the Streamlit interface  
+
+## 🔍 Backend & System Relevance
+
+This project demonstrates:
+- Building **AI-backed backend services**
+- Model integration and orchestration
+- Designing scalable input-handling pipelines
+- Combining AI performance with usability
+These skills are directly applicable to **backend engineering roles involving AI integration and intelligent services**.
+
+## 🔗 Project Link
+
+🔗 **[View Project](https://github.com/Sachinn0704/Multi-modal-_AI-project)**
 
 
 # 🔐 Phase Encoding & Error Correction Code (ECC) Steganography System
@@ -66,8 +141,6 @@ For Omnimise, I want to build **robust APIs and services** that handle identity 
 
 A security-focused system designed to hide sensitive data inside images while
 maintaining data integrity using Error Correction Codes (ECC).
-
----
 
 ## 📌 Project Overview
 
@@ -78,8 +151,6 @@ from digital images.
 The system is robust against noise and transmission errors, making it suitable
 for secure backend and data-protection use cases.
 
----
-
 ## 🧠 Core Features
 
 - 🔒 Secure data hiding using phase encoding  
@@ -87,12 +158,7 @@ for secure backend and data-protection use cases.
 - 📊 High data recovery accuracy under noisy conditions  
 - ⚙️ Algorithm-focused, defensive implementation  
 
----
-
 ## 🏗 System Workflow
-
-![System Workflow](images/workflow.png)
-
 **Steps:**
 1. Input secret text  
 2. Apply ECC encoding  
@@ -101,18 +167,11 @@ for secure backend and data-protection use cases.
 5. Decode phase information  
 6. Apply ECC decoding to recover data  
 
----
-
 ## 📈 Results & Graphs
-
-![Original vs Encoded](images/original_vs_encoded.png)  
-![ECC Accuracy Graph](images/ecc_accuracy.png)
 
 **Results:**
 - Minimal visual difference between original and encoded images  
 - Improved robustness and data integrity with ECC  
-
----
 
 ## 🔍 Backend Relevance
 
@@ -121,14 +180,9 @@ for secure backend and data-protection use cases.
 - Defensive programming mindset  
 - Algorithm-level integrity assurance  
 
----
-
 ## 🔗 Project Link
 
 🔗 **[View Project](https://github.com/Sachinn0704/Phase-Error-Correcting-Code)**
-
-
----
 
 ### 4️⃣ Mini Projects (Selected)  
 **Tech:** Python, Arduino, Web, AI [
@@ -138,10 +192,8 @@ for secure backend and data-protection use cases.
 - **AI-Based Ransomware Detection & Prevention:** Security-focused AI application. 
 - **Online Quiz App:** Web-based question handling, scoring, and user flows.  
 
-> These show my ability to **rapidly prototype** systems, work with **hardware + software**, and **translate ideas into working products.** 
-
----
-
+> These show my ability to **rapidly prototype** systems, work with **hardware + software**, and **translate ideas into working products.**
+> 
 ## 🌱 Certifications & Learning
 
 - Image Processing Onramp, Machine Learning, MATLAB Onramp 
@@ -151,8 +203,6 @@ for secure backend and data-protection use cases.
 - TCS iON Career Edge – Young Professional  
 
 These strengthen my understanding of **end-to-end data pipelines**, **secured access**, and **full-stack basics** that support backend work. 
-
----
 
 ## 🏆 Hackathons, Languages & Interests
 
