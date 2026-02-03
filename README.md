@@ -60,16 +60,72 @@ For Omnimise, I want to build **robust APIs and services** that handle identity 
 
 
 
-### 3️⃣ Phase Encoding & ECC Steganography System  
-**Tech:** Python, NumPy, OpenCV/PIL, bitarray, Matplotlib 
+# 🔐 Phase Encoding & Error Correction Code (ECC) Steganography System
 
-- Designed a system to **securely hide sensitive data in images** using phase encoding. 
-- Used **Error Correction Codes (ECC)** to detect and correct errors, ensuring **high data integrity and robustness**. 
+**Tech:** Python, NumPy, OpenCV / PIL, bitarray, Matplotlib  
 
-> Relevance for Omnimise:  
-> - Strong focus on **data integrity**, **reliability**, and **error handling**.  
-> - Mindset for **defensive programming** and **secure data handling** in backend services.
-> - 🔗 [View Project](https://github.com/Sachinn0704/Phase-Error-Correcting-Code)
+A security-focused system designed to hide sensitive data inside images while
+maintaining data integrity using Error Correction Codes (ECC).
+
+---
+
+## 📌 Project Overview
+
+This project implements phase encoding–based image steganography combined with
+Error Correction Codes (ECC) to securely embed and recover confidential data
+from digital images.
+
+The system is robust against noise and transmission errors, making it suitable
+for secure backend and data-protection use cases.
+
+---
+
+## 🧠 Core Features
+
+- 🔒 Secure data hiding using phase encoding  
+- 🛡 Error detection and correction using ECC  
+- 📊 High data recovery accuracy under noisy conditions  
+- ⚙️ Algorithm-focused, defensive implementation  
+
+---
+
+## 🏗 System Workflow
+
+![System Workflow](images/workflow.png)
+
+**Steps:**
+1. Input secret text  
+2. Apply ECC encoding  
+3. Embed data using phase encoding  
+4. Transmit/store image  
+5. Decode phase information  
+6. Apply ECC decoding to recover data  
+
+---
+
+## 📈 Results & Graphs
+
+![Original vs Encoded](images/original_vs_encoded.png)  
+![ECC Accuracy Graph](images/ecc_accuracy.png)
+
+**Results:**
+- Minimal visual difference between original and encoded images  
+- Improved robustness and data integrity with ECC  
+
+---
+
+## 🔍 Backend Relevance
+
+- Secure handling of sensitive data  
+- Strong focus on reliability and error management  
+- Defensive programming mindset  
+- Algorithm-level integrity assurance  
+
+---
+
+## 🔗 Project Link
+
+🔗 **[View Project](https://github.com/Sachinn0704/Phase-Error-Correcting-Code)**
 
 
 ---
