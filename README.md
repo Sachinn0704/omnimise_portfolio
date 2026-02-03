@@ -41,7 +41,8 @@ For Omnimise, I want to build **robust APIs and services** that handle identity 
 > What this shows for Omnimise:  
 > - Handling **sensitive identity data** securely.  
 > - Designing **tamper-resistant systems** and thinking about **trust** as a core requirement.
-> - [https://github.com/Sachinn0704/-Blockchain-based-E-Voting-system-with-Facial-Recognition-]
+> - 🔗 [View Project](https://github.com/Sachinn0704/-Blockchain-based-E-Voting-system-with-Facial-Recognition-)
+
 
 
 
@@ -54,7 +55,8 @@ For Omnimise, I want to build **robust APIs and services** that handle identity 
 > Relevance for Omnimise:  
 > - Experience in **building AI-backed services** that can plug into backend workflows.  
 > - Ability to expose models via **web apps/APIs** and think about **user experience + performance**.
-> - [https://github.com/Sachinn0704/Multi-modal-_AI-project/tree/main]
+> - 🔗 [View Project](https://github.com/Sachinn0704/Multi-modal-_AI-project)
+
 
 
 
@@ -67,7 +69,8 @@ For Omnimise, I want to build **robust APIs and services** that handle identity 
 > Relevance for Omnimise:  
 > - Strong focus on **data integrity**, **reliability**, and **error handling**.  
 > - Mindset for **defensive programming** and **secure data handling** in backend services.
-> - [https://github.com/Sachinn0704/Phase-Error-Correcting-Code/tree/main]
+> - 🔗 [View Project](https://github.com/Sachinn0704/Phase-Error-Correcting-Code)
+
 
 ---
 
