@@ -7,6 +7,12 @@ description: "Backend Developer | Python | SQL | Data Analytics"
 show_downloads: false
 markdown: kramdown
 
+# Site metadata used by GitHub Pages and the Hacker theme.
+author: "Sachin Bhosagi"
+github_username: "Sachinn0704"
+repository: "Sachinn0704/omnimise_portfolio"
+lang: "en-US"
+
 # Keep links and project pages consistent when the site is deployed from GitHub Pages.
 url: ""
 baseurl: ""
