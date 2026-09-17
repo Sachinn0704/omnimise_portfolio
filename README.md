@@ -13,7 +13,7 @@ The portfolio emphasizes building reliable software systems that combine backend
 - **Databases:** MySQL, SQLite, MongoDB
 - **AI/ML:** Scikit-learn, TensorFlow, OpenCV, Pandas, NumPy, Matplotlib
 - **Frontend:** HTML, CSS, JavaScript, React
-- **Tools:** Git, GitHub, Jupyter, VS Code, Google Colab
+- **Tools:** Git, GitHub, Jupyter, VS Code
 - **Cloud:** AWS, GCP, Azure fundamentals
 
 ## Featured Projects
@@ -45,6 +45,19 @@ SQL projects covering relational database design, joins, aggregation, ranking, a
 ## Portfolio Structure
 
 This repository contains the portfolio application and supporting project information. Individual projects have their own repositories with project-specific documentation and implementation details.
+
+## Local Development
+
+This site is configured for **GitHub Pages** using the `pages-themes/hacker` remote theme and Jekyll. The repository is intentionally lightweight and keeps the portfolio content in version control.
+
+### Run locally
+
+1. Install Ruby and Bundler.
+2. Install the Jekyll dependencies required by the GitHub Pages setup.
+3. Start a local Jekyll server from the repository root.
+4. Open the local server URL shown by Jekyll and verify the project links before publishing.
+
+The deployment configuration is kept in `_config.yml`, including the site title, description, repository metadata, language, and GitHub Pages settings.
 
 ## Development Focus
 
