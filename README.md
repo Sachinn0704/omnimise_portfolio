@@ -59,6 +59,16 @@ This site is configured for **GitHub Pages** using the `pages-themes/hacker` rem
 
 The deployment configuration is kept in `_config.yml`, including the site title, description, repository metadata, language, and GitHub Pages settings.
 
+### Publishing checklist
+
+Before publishing portfolio changes:
+
+1. Verify project names and repository links point to the intended public repositories.
+2. Check that project descriptions match the current implementation rather than planned features.
+3. Confirm that no API keys, credentials, generated build artifacts, or local development files are committed.
+4. Preview the site locally and check navigation, headings, and project links.
+5. Review the final Git diff so documentation-only changes do not unintentionally modify application files.
+
 ## Development Focus
 
 The portfolio is intended to evolve alongside continued work in backend engineering, data analytics, AI integration, cloud fundamentals, and open-source development.
